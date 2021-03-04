@@ -1,0 +1,19 @@
+{
+  "name": "pokeapi-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para PokeAPI.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lucas Shoobridge.",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "morgan": "^1.10.0",
+    "node-fetch": "2.6.1"
+  }
+}
