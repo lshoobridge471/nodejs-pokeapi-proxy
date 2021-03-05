@@ -4,7 +4,6 @@ Proxy requests para poder buscar Pokemons en la api de PokeAPI (ya que la misma 
 API utilizada: https://pokeapi.co/api/v2/
 
 Creado por Lucas Shoobridge.
-Fecha: 2021-03-04
 
 ## Pasos a seguir para iniciar:
 - Instalar NodeJS (preferentemente v14.15.1).
